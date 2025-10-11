@@ -649,7 +649,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226305/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226142/1.m3u8
 #EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山东教育卫视.png" group-title="💡教育",山东教育卫视
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226231/1.m3u8
-#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CGTN1.png" group-title="🧞‍CGTN",CGTV
+#EXTINF:-1,tvg-id="CGTV" tvg-name="CGTV" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CGTV.png" group-title="🧞‍CGTN",CGTV
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226323/1.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CGTN.png" group-title="🧞‍CGTN",CGTN
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225774/1.m3u8
