@@ -453,7 +453,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225832/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226320/1.m3u8
 #EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/绛县综合.png" group-title="☘️山西",绛县综合
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226493/1.m3u8
-#EXTINF:-1,tvg-id="山西焦煤" tvg-name="山西焦煤" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/NEWTV炫舞未來.png" group-title="☘️山西",山西焦煤
+#EXTINF:-1,tvg-id="山西焦煤" tvg-name="山西焦煤" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西焦煤.png" group-title="☘️山西",山西焦煤
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225979/1.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西卫视.png" group-title="☘️山西",山西卫视
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EokFa56wMKUpB1vaIjEe92A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPoj5DNJHruOghC7vAQxinJ%2CEND
@@ -461,11 +461,11 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西卫视.png" group-title="☘️山西",山西卫视
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226920/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1,tvg-id="山西经济与科技1" tvg-name="山西经济与科技1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西经济与科技.png" group-title="☘️山西",山西经济与科技
+#EXTINF:-1,tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西经济与科技.png" group-title="☘️山西",山西经济与科技
 http://www.dsk.cc/sxitv/sxzb.html?id=sxjj
 #EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西影视.png" group-title="☘️山西",山西影视
 http://www.dsk.cc/sxitv/sxzb.html?id=sxys
-#EXTINF:-1,tvg-id="山西社会与法1" tvg-name="山西社会与法1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西社会与法治.png" group-title="☘️山西",山西社会与法治
+#EXTINF:-1,tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西社会与法治.png" group-title="☘️山西",山西社会与法治
 http://www.dsk.cc/sxitv/sxzb.html?id=sxshfz
 #EXTINF:-1,tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/山西文体生活.png" group-title="☘️山西",山西文体生活
 http://www.dsk.cc/sxitv/sxzb.html?id=sxwtsh
