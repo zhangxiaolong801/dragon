@@ -6,12 +6,14 @@ CCTV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1.m3u8
 CCTV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226246/1.m3u8
 CCTV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/1.m3u8
 CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226234/1.m3u8
+CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226514/1.m3u8
 CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1.m3u8
 CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226235/1.m3u8
 CCTV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225694/1.m3u8
 CCTV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226261/1.m3u8
 CCTV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225958/1.m3u8
 CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/1.m3u8
+CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226324/1.m3u8
 CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226254/1.m3u8
 CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226047/1.m3u8
 CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226177/1.m3u8
@@ -19,12 +21,14 @@ CCTV5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226164/1.m3u8
 CCTV5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226294/1.m3u8
 CCTV5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
 CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226237/1.m3u8
+CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226517/1.m3u8
 CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225973/1.m3u8
 CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225997/1.m3u8
 CCTV7,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225924/1.m3u8
 CCTV7,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226433/1.m3u8
 CCTV7,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/1.m3u8
 CCTV8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226257/1.m3u8
+CCTV8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226359/1.m3u8
 CCTV8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225976/1.m3u8
 CCTV8,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225994/1.m3u8
 CCTV9,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225930/1.m3u8
@@ -449,3 +453,4 @@ CGTN西班牙语,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226026/1.
 未知频道35,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226403/1.m3u8
 未知频道36,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226406/1.m3u8
 未知频道37,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226212/1.m3u8
+
