@@ -1,67 +1,67 @@
 #EXTM3U x-tvg-url="https://fy.188766.xyz/all.xml.gz" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226249/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV2.png" group-title="📺央视",CCTV2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV2.png" group-title="📺央视",CCTV2
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV2.png" group-title="📺央视",CCTV2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV2.png" group-title="📺央视",CCTV2
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226246/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV2.png" group-title="📺央视",CCTV2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV2.png" group-title="📺央视",CCTV2
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226234/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226514/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226235/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV4.png" group-title="📺央视",CCTV4
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV4.png" group-title="📺央视",CCTV4
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225694/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV4.png" group-title="📺央视",CCTV4
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV4.png" group-title="📺央视",CCTV4
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226261/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV4.png" group-title="📺央视",CCTV4
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV4.png" group-title="📺央视",CCTV4
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225958/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226324/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226254/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226047/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5.png" group-title="📺央视",CCTV5
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226177/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5+.png" group-title="📺央视",CCTV5+
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5+.png" group-title="📺央视",CCTV5+
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226164/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5+.png" group-title="📺央视",CCTV5+
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5+.png" group-title="📺央视",CCTV5+
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226294/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5+.png" group-title="📺央视",CCTV5+
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV5+.png" group-title="📺央视",CCTV5+
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226237/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226517/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225973/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV6.png" group-title="📺央视",CCTV6
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225997/1.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV7.png" group-title="📺央视",CCTV7
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV7.png" group-title="📺央视",CCTV7
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225924/1.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV7.png" group-title="📺央视",CCTV7
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV7.png" group-title="📺央视",CCTV7
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226433/1.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV7.png" group-title="📺央视",CCTV7
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV7.png" group-title="📺央视",CCTV7
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226257/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226359/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225976/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV8.png" group-title="📺央视",CCTV8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225994/1.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV9.png" group-title="📺央视",CCTV9
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225930/1.m3u8
@@ -867,5 +867,6 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226403/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226406/1.m3u8
 #EXTINF:-1,tvg-id="NEWTV炫舞未來" tvg-name="NEWTV炫舞未來" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/NEWTV炫舞未來.png" group-title="❓未知",未知频道37
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226212/1.m3u8
+
 
 
