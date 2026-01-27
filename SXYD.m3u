@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
@@ -867,6 +867,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226403/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226406/1.m3u8
 #EXTINF:-1,tvg-id="NEWTV炫舞未來" tvg-name="NEWTV炫舞未來" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/NEWTV炫舞未來.png" group-title="❓未知",未知频道37
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226212/1.m3u8
+
 
 
 
