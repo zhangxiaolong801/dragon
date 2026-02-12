@@ -132,9 +132,9 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226335/1.m3u8
 #EXTINF:-1,tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/深圳卫视-4K.png" group-title="📡卫视",深圳卫视-4K
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226321/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/湖南卫视-4K.png" group-title="📡卫视",湖南卫视-4K
-https://migu.188766.xyz/?migutoken=c9ec69705eb4bd8faa6a26ef03a59422&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+https://migu.188766.xyz/?migutoken=77e4caada397f9976030b3a7fe5040af&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1,tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/浙江卫视-4K.png" group-title="📡卫视",浙江卫视-4K
-https://migu.188766.xyz/?migutoken=16008e1e8a0337323ff1216fcf16c424&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+https://migu.188766.xyz/?migutoken=b412518489b8cfd55a9e4ad516a2a116&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1,tvg-id="AI直播4K" tvg-name="AI直播4K" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/AI直播-4K.png" group-title="📡卫视",AI直播-4K
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226318/1.m3u8
 #EXTINF:-1,tvg-id="AI直播" tvg-name="AI直播" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/AI直播.png" group-title="📡卫视",AI直播
@@ -871,6 +871,7 @@ http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226403/1.m3u8
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226406/1.m3u8
 #EXTINF:-1,tvg-id="NEWTV炫舞未來" tvg-name="NEWTV炫舞未來" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/NEWTV炫舞未來.png" group-title="❓未知",未知频道37
 http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226212/1.m3u8
+
 
 
 
