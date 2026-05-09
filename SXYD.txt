@@ -381,7 +381,6 @@ CGTN西班牙语,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226026/1.
 魅力潇湘,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225790/1.m3u8
 明星大片,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225837/1.m3u8
 农业致富,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226037/1.m3u8
-武搏世界,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225787/1.m3u8
 炫舞未来,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225840/1.m3u8
 中国功夫,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226043/1.m3u8
 怡伴健康,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225849/1.m3u8
