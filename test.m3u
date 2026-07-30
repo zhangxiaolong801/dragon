@@ -1,0 +1,6 @@
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV1.png" group-title="📺央视",CCTV1
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV2.png" group-title="📺央视",CCTV2
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/sxlgys/logo/raw/master/CCTV3.png" group-title="📺央视",CCTV3
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226234/1.m3u8
